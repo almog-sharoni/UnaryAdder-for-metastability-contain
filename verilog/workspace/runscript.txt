@@ -1,0 +1,7 @@
+xrun
+    -gui
+    -access +rw
+    ../src/rtl/binaryadder.v
+    ../src/rtl/grayadder.sv
+    ../src/rtl/unaryadder.v
+    ../src/tb/all_tb.sv
